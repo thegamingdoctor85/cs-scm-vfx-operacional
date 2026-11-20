@@ -4,7 +4,7 @@ Repositório para publicação dos Mapas Operacionais Médicos do Campus de Saú
 
 ## Segurança
 
-Este repositório deve permanecer **PRIVADO** antes de receber qualquer ficheiro com dados clínicos identificáveis. O site Netlify também deve ter controlo de acesso próprio antes da publicação de mapas reais.
+Este repositório não contém informação clinica. O site Netlify também deve ter controlo de acesso próprio antes da publicação de mapas reais.
 
 ## Estrutura
 
